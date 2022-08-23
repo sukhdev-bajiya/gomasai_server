@@ -1,0 +1,17 @@
+{
+  "name": "gomasai_server",
+  "version": "1.0.0",
+  "description": "Let's see our search 🔍 engine GoMasai",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Sukhdev Bajiya, Akash Surev, Ayush Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
